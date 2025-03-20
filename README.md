@@ -1,5 +1,5 @@
 **#DEMO1**
-![Exit from Right Side](https://github.com/ishapatel97/Maze-Solving-Python/blob/main/Exit_from_rightside.gif)  
+![Exit from Right Side](https://github.com/ishapatel97/Maze-Solving-Python/blob/main/Exit_from_right.gif)  
 
 **#DEMO2 with gmapping**
 
