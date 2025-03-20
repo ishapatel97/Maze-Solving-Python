@@ -1,3 +1,8 @@
+**#DEMO**
+![Exit from Right Side](https://github.com/ishapatel97/Dynamic-MDP/blob/main/Exit_from_rightside.gif)  
+
+![Maze Exploration with GMapping](https://github.com/ishapatel97/Dynamic-MDP/blob/main/maze_explore_with_gmapping.gif)  
+
 # Installation
 
 After downloading this package. Compile your workspace.
