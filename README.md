@@ -1,5 +1,5 @@
-# Maze-Solving-Python-ROS(Robot Operating System)
 # Installation
+
 After downloading this package. Compile your workspace.
 
 Install dependencies: sudo apt-get install ros-noetic-turtlebot3-description ros-noetic-turtlebot3-gazebo
